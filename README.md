@@ -1,4 +1,4 @@
-# synent-task1-titanic-cleaning-krish-sankhavara
+# synent-task1-titanic-cleaning-Rishabh-Sakariya
 # Titanic Data Cleaning & Preprocessing
 
 ## Problem Statement
